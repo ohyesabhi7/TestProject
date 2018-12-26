@@ -5,7 +5,7 @@ public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
 	//int i=sc.nextInt();
 	//System.out.println("sdsf "+i);
-	System.out.println("print to test git hub");
+	System.out.println("print to test on git hub");
 	StringBuffer sb= new StringBuffer("abhijit");
 	sb.append("yyyy");
 	System.out.println(sb);
