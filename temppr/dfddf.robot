@@ -9,8 +9,7 @@ test case1
 print hello1
     Log To Console    ${something}    
 
-print hello
-    Log To Console    hello  
+ 
     
 print hello
     Log To Console    helloworld
