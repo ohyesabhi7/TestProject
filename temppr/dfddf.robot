@@ -13,4 +13,6 @@ print hello1
     
 print hello
     Log To Console    helloworld
+    Log To Console    added directly to git 
+    
       
