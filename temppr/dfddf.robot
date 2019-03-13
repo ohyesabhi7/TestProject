@@ -11,4 +11,7 @@ print hello1
 
 print hello
     Log To Console    hello  
+    
+print hello
+    Log To Console    helloworld
       
